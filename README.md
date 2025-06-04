@@ -91,4 +91,4 @@ src/
 
 ## 📬 Kontakt
 
-V prípade otázok alebo spätnej väzby ma kontaktujte cez GitHub issues.
+martin.lapsa2@gmail.com
